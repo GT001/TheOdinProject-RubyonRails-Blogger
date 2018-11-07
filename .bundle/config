@@ -1,2 +1,2 @@
 ---
-BUNDLE_WITHOUT: "production:productiongit:branch"
+BUNDLE_WITHOUT: "production"
